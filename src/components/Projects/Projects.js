@@ -26,7 +26,7 @@ function Projects() {
               isBlog={false}
               title="Chatt Applicaiton"
               description="Lorem"
-              ghLink="https://github.com/kishorreddys"
+              ghLink="https://kishorreddys.github.io/portfolio/"
               // demoLink=""
             />
           </Col>
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Cab Management System"
               description="Lorem"
-              ghLink="https://github.com/kishorreddys/"
+              ghLink="https://kishorreddys.github.io/portfolio/"
               // demoLink=""
             />
           </Col>
@@ -48,7 +48,7 @@ function Projects() {
               isBlog={false}
               title="E-Commerce Website"
               description="Lorem"
-              ghLink="https://github.com/kishorreddys/"
+              ghLink="https://kishorreddys.github.io/portfolio/"
               // demoLink=""              
             />
           </Col>
@@ -59,7 +59,7 @@ function Projects() {
               isBlog={false}
               title="Task Manager API"
               description="A RESTful API using Hibernate, JABC, and Spring. The API will enable users to perform CRUD operations (Create, Read, Update, and Delete) on tasks."
-              ghLink="https://github.com/kishorreddys/"
+              ghLink="https://kishorreddys.github.io/portfolio/"
               // demoLink=""
             />
           </Col>

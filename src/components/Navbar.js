@@ -6,7 +6,7 @@ import logo from "../Assets/logo.png";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+//import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
   AiOutlineHome,
@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/kishorreddys/"
+                href="https://kishorreddys.github.io/portfolio/"
                 target="_blank"
                 className="fork-btn-inner"
               >
